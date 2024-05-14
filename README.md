@@ -1,6 +1,6 @@
 Priscilla Abigail 2602109883
 
-ToDo App - Backend Repository
+ToDo App - Frontend Repository
 
 ![](/assets/1.png)
 ![](assets/8.png)
