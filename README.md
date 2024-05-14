@@ -4,4 +4,3 @@ ToDo App - Backend Repository
 
 ![](/assets/cns.png)
 
-# WADS_session_cookies
